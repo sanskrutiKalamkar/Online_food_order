@@ -2,8 +2,8 @@
 
 function Connect()
 {
-	$dbhost = "localhost";
-	$dbuser = "root";
+	$dbhost = "mysqldbsvraz.mysql.database.azure.com";
+	$dbuser = "mysqladmin";
 	$dbpass = "";
 	$dbname = "foodorder";
 
