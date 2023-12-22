@@ -4,7 +4,7 @@ function Connect()
 {
 	$dbhost = "mysqldbsvraz.mysql.database.azure.com";
 	$dbuser = "mysqladmin";
-	$dbpass = "";
+	$dbpass = "Server@1";
 	$dbname = "foodorder";
 
 	//Create Connection
